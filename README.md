@@ -33,9 +33,12 @@ The ability to go back in history, fork the state, and re-run agentic logic from
 ## 🚀 Getting Started
 
 1.  **Clone the repo:**
+
     ```bash
-    git clone [https://github.com/yourusername/LangGraph-Agent-Mastery.git](https://github.com/yourusername/LangGraph-Agent-Mastery.git)
+    git clone [https://github.com/ozereray/langgraph-agentic-workflows]
+
     ```
+
 2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
